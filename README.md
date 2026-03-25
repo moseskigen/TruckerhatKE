@@ -1,0 +1,5 @@
+My Problem-Solving SME (Small and Medium Enterprise) project, deployed on GitHub, is a practical digital solution designed to address common challenges faced by small businesses, particularly in resource-limited environments. The project focuses on improving efficiency, organization, and decision-making through simple, accessible technology.
+
+The system is built using JavaScript and web development technologies, providing a user-friendly interface where SME owners can manage key aspects of their business. These include tracking inventory, recording sales, and monitoring basic financial activities. By digitizing these processes, the platform helps reduce manual errors, save time, and provide clearer insights into business performance.
+
+A key feature of the project is its emphasis on simplicity and accessibility. Understanding that many small business owners may have limited technical experience, I designed the system to be intuitive and easy to use. The goal is to lower the barrier to digital adoption and support SMEs in transitioning from manual to digital operations.
